@@ -15,6 +15,6 @@ vendor.camera.hal1.packagelist=com.whatsapp \
 persist.camera.dual.camera=0 \
 persist.camera.eis.enable=1
 
-# Havoc maintainer
+# ZENX maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
-ro.havoc.maintainer=KenHV
+ro.zenx.maintainer=Srinand E K
